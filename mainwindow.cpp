@@ -10,9 +10,10 @@
 #include "udp.hh"
 #include <QtWidgets>
 #include <QMetaType>
-using namespace oscpkt;
 
+using namespace oscpkt;
 using std::string;
+
 
 QString ipAdrr = "127.0.0.1";
 
